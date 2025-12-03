@@ -21,6 +21,7 @@ This project aims to:
 - **Average age of customer** = **44.0**
 - **Average review rating** = **3.75**
 
+## Recommendation
 
 
 
