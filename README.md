@@ -14,7 +14,8 @@ This project aims to:
 - Data cleaning was perform in Power Bi power query
 - Add new columns to the dataset in power query
 
-
+## Key Performance Indicator (KPI)
+- **Count f customers** = **3900**
 
 
 
