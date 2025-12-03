@@ -15,7 +15,12 @@ This project aims to:
 - Add new columns to the dataset in power query
 
 ## Key Performance Indicator (KPI)
-- **Count f customers** = **3900**
+- **Count of customers** = **3900**
+- **Total purchase amount (USD)** = **$233,000**
+- **Total previous purchase** = **$99,000**
+- **Average age of customer** = **44.0**
+- **Average review rating** = **3.75**
+
 
 
 
