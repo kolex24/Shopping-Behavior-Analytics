@@ -23,9 +23,15 @@ This project aims to:
 
 ## Recommendation
 1. Stakeholders should priotize customer want
- - clothing was the highest purchase product-category, i.e more clothing product-category should be available in the store to meetup customer want
- - 
+ - clothing was the highest purchase **($104K)** product-category, i.e more clothing product-category should be available in the store to meetup customer want
+ - Target high spending customers aged 45-60 (Gen X) with personalize offers
+ - Reduce stocking of Outerwear product-category since we generate low purchase from it to cut inventory cost
+ - Introduce Loyalty rewards to retain returning customers.
 
+2. Regional Performance
+   - promote commonly purchase item in the Top location with high purchase (Montana, Illinois, California, Idaho and Nevada)
+   - Create marketing campaign in the out-performing location with low purchase (Rhode Island, New jersey, Florida, Hawali and Kansas)
+3. Introduce loyalty discount to increase repeat purchase on out-performing product-category 
 
 
 
