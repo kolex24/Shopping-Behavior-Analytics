@@ -22,8 +22,9 @@ This project aims to:
 - **Average review rating** = **3.75**
 
 ## Recommendation
-
-
+1. Stakeholders should priotize customer want
+ - clothing was the highest purchase product-category, i.e more clothing product-category should be available in the store to meetup customer want
+ - 
 
 
 
